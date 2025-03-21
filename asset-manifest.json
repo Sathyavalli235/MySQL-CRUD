@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MySQL-CRUD/static/css/main.cf8cb218.css",
+    "main.js": "/MySQL-CRUD/static/js/main.178037f6.js",
+    "index.html": "/MySQL-CRUD/index.html",
+    "main.cf8cb218.css.map": "/MySQL-CRUD/static/css/main.cf8cb218.css.map",
+    "main.178037f6.js.map": "/MySQL-CRUD/static/js/main.178037f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf8cb218.css",
+    "static/js/main.178037f6.js"
+  ]
+}
