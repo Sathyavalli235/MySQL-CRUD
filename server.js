@@ -88,4 +88,5 @@ app.delete('/deletepost/:id', (req, res) => {
 
 app.listen(port,()=>{
     console.log('Server started at port 3001')
+
 })
