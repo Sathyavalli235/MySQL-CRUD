@@ -8,7 +8,7 @@ const CreatePost=()=>{
     const [body,setBody]=useState("");
     const navigate=useNavigate();
     
-    //Data inserted code
+    //Data insert code
     const handleSubmit=(e)=>{
         e.preventDefault();
         axios.post('http://localhost:3001/addpost',{title,body})
